@@ -12,7 +12,7 @@ Dr. Stephanie Hicks is an Assistant Professor in the Department of Biostatistics
 Website: https://www.stephaniehicks.com/ <br>
 Twitter: https://twitter.com/stephaniehicks/ <br>
 [Presentation material](TBA) <br>
-[Video recording of the webinar]()
+[Video recording of the webinar](https://youtu.be/gicef6KeqpA)
 
 ## About the meetup
 **SYNOPSIS** <br>
