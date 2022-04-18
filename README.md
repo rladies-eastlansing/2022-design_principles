@@ -11,7 +11,7 @@ Dr. Stephanie Hicks is an Assistant Professor in the Department of Biostatistics
 
 Website: https://www.stephaniehicks.com/ <br>
 Twitter: https://twitter.com/stephaniehicks/ <br>
-[Presentation material](TBA) <br>
+[Presentation material](https://github.com/rladies-eastlansing/2022-design_principles/blob/main/20220414-StephanieHicks-design_principles_data_analysis.pdf) <br>
 [Video recording of the webinar](https://youtu.be/gicef6KeqpA)
 
 ## About the meetup
